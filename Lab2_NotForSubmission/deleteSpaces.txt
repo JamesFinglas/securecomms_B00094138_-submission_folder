@@ -1,0 +1,1 @@
+echo "Welcome     To    Seure    Communications" | tr -s [:space:]' '

@@ -1,0 +1,25 @@
+rs encryption:
+
+p * q = n   publin key =(n,e)
+
+(m = message)
+
+c = m to the power of e % n  :  pow(m,e,n)
+
+rsa decrypton:
+
+(n,d)
+
+c = (cipher text: decimal number)
+
+m = c to the power of d % n  (pow(c,d,n)
+
+
+
+plaintext = 'some text'
+
+m = string2int(plaintext)
+
+c= pow(m,e,n)
+
+m = pow(c,d,n)

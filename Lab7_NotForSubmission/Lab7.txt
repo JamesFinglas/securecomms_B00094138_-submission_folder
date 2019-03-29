@@ -1,0 +1,39 @@
+Lab7 - Extra Decoding
+
+1: V2VsbCBkb25lIHlvdSBzb2x2ZWQgcGFydCAx 
+
+(base64) = 
+
+Well done you solved part 1
+
+2: d8578edf8458ce06fbc5bb76a58c5ca4 
+
+(md5) = 
+
+qwerty
+
+3: Pna lbh oryvrir Zvpebfbsg hfrq guvf gb rapbqr vgf ertvfgel inyhrf!                
+
+(rot13)   = 
+
+Can you believe Microsoft used this to encode its registry values!
+
+4: (6== 5@?6[ E9:D :D 2 >F49 =6DD @7E6? FD65 6?4@5:?8 D496>6 
+
+(rot47) = 
+
+Well done, this is a much less often used encoding scheme
+
+5: q293VFOcoKOlMKAmnKMyVUEbnKZtq2SmVUMypaxtqUWcL2g5YPO3MJkfVTEiozHtn
+J4tp29fqzyh MlO0nTymYPOiozk5VT9hMFOgo3WyVUEiVTqiYPOao29xVTk1L2fAPt== 
+
+(base 64 – N-ZA-Mn-za-m0-9+/=  *cyberchef*) = 
+
+wow! impressive this was very tricky, well done in solving this, only one more to go, good luck
+
+6: EVIB DVOO WLMV LM HLOERMT GSV URMZO KILYOVN, SLKVUFOOB RG
+WRWM'G GZPV BLF GLL OLMT ZMW BLF VMQLBVW RG. 
+
+(anagram solved with quip quip) =
+
+VERY WELL DONE ON SOLVING THE FINAL PROBLEM, HOPEFULLY IT DIDN'T TAKE YOU TOO LONG AND YOU ENJOYED IT
